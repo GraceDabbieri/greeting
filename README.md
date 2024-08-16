@@ -1,2 +1,2 @@
 # greeting
-Testing Hello World
+I have finished all the assignments in this folder.
